@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: my email address is praanitchakraborty0509@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
 
 <!---
 praanitp/praanitp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
