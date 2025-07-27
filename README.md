@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @praanitp
-- 👀 I’m interested in AI and Robotics
+- 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: my email address is praanitchakraborty0509@gmail.com
 - 😄 Pronouns: he/him
