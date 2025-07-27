@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @praanitp
 - 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, C, C++, JAVA and Webdev
 - 📫 How to reach me: my email address is praanitchakraborty0509@gmail.com
 - 😄 Pronouns: he/him
 
